@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='hhttp://g.recordit.co/hcYDqcASYl.gif' title='Video Walkthrough-2' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/hcYDqcASYl.gif' title='Video Walkthrough-2' width='' alt='Video Walkthrough' />
 
 Time spent: **14** hours spent in total
 
